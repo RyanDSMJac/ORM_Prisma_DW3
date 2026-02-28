@@ -3,10 +3,8 @@
 Comandos a se rodar:
 
 ```bash
-npm init -y
 npm install express prisma @prisma/client dotenv
 npm install -D typescript ts-node-dev @types/node @types/express
-npx tsc –-init
 ```
 
 .env:
